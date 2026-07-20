@@ -1,4 +1,4 @@
-{"generatedAt":"2026-07-15T15:07:54.8621052Z","coas":[
+{"generatedAt":"2026-07-20T16:26:16.7612535Z","coas":[
 {"LotNumber":"L-CP10-260506","PublicPDFURL":"https://ncpmr1.sharepoint.com/:b:/s/PeptideCoAPublic/IQBoVlIMavP-TLGlzo0_PhB5AWLDnEcHCmRvCciEvYy0pa4?download=1","withdrawn":false},
 {"LotNumber":"P-CGL5-260506","PublicPDFURL":"https://ncpmr1.sharepoint.com/:b:/s/PeptideCoAPublic/IQAizCzlW_PESoBvZWavv7k_AevSDRo-n9TJ1Qt5vL5I9VU?download=1","withdrawn":false},
 {"LotNumber":"L-BB10-260506","PublicPDFURL":"https://ncpmr1.sharepoint.com/:b:/s/PeptideCoAPublic/IQDUFCZuJoKPSYGddf-f3BnoARfB7l6WiGP9g5ww5yQO0Tk?download=1","withdrawn":false},
@@ -14,5 +14,6 @@
 {"LotNumber":"O-BB20-260528","PublicPDFURL":"https://ncpmr1.sharepoint.com/:b:/s/PeptideCoAPublic/IQAUpIyBxxl_T7Bqqwy62R93ASwxFfRpegWrNbhbNNq7EWE?download=1","withdrawn":false},
 {"LotNumber":"E-RT60-260610","PublicPDFURL":"https://ncpmr1.sharepoint.com/:b:/s/PeptideCoAPublic/IQDy43o53oMgR6eSumiBxVWiAUDCFYTWB5S6rSUmazgG4fY?download=1","withdrawn":false},
 {"LotNumber":"O-T60-260610","PublicPDFURL":"https://ncpmr1.sharepoint.com/:b:/s/PeptideCoAPublic/IQD53I114RvPS6KgNnr1bVaXAYEZh8VYgczCLTHn6ZowRHw?download=1","withdrawn":false},
-{"LotNumber":"P-RT10-260630","PublicPDFURL":"https://ncpmr1.sharepoint.com/:b:/s/PeptideCoAPublic/IQBdA24DggTZQ5vTZSC41ROMASz-Ddkf9PVgpZXFi9sTJ2k?download=1","withdrawn":false}
+{"LotNumber":"P-RT10-260630","PublicPDFURL":"https://ncpmr1.sharepoint.com/:b:/s/PeptideCoAPublic/IQBdA24DggTZQ5vTZSC41ROMASz-Ddkf9PVgpZXFi9sTJ2k?download=1","withdrawn":false},
+{"LotNumber":"O-T60-260717","PublicPDFURL":"https://ncpmr1.sharepoint.com/:b:/s/PeptideCoAPublic/IQBC_yeomszhQYK0KNsR98UDAcLVNbcT1agge_z7ILFipPI?download=1","withdrawn":false}
 ]}
